@@ -44,3 +44,5 @@ En iyi performansı veren modeller üzerinde **GridSearchCV** kullanılarak para
 - `kronik_bobrek_hastaligi_tahmini_uyg4.ipynb`: Veri hazırlığından model tünellemeye kadar tüm süreci içeren ana dosya.
 - `kidney_disease.csv`: Analizde kullanılan ham klinik veri seti.
 
+  **⚠️ Önemli Uyarı:** Bu proje eğitim ve araştırma amaçlı bir akademik çalışmadır. Üretilen sonuçlar ve tahminler tıbbi tavsiye niteliği taşımaz. Gerçek bir teşhis veya tedavi süreci için mutlaka bir uzman hekime danışınız.
+
